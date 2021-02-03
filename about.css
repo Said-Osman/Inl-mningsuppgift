@@ -27,3 +27,11 @@ a:hover {
 
 }
 
+.card-img, .card-img-bottom, .card-img-top {
+    width: 70%;
+}
+
+img, svg {
+    vertical-align: middle;
+    width: 30%;
+}
