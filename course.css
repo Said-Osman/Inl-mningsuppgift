@@ -6,7 +6,7 @@ body {
 
 .navigationWrapper {
 width: 12%;
-background-color: rgb(153, 153, 130);
+background-color: rgb(231, 243, 215);
 padding: 0%;
  
 }
@@ -30,12 +30,12 @@ a:hover {
 
 table, th, td {
     border-collapse: collapse; 
-    border: 6px solid rgb(158, 183, 236); 
+    border: 6px solid rgb(117, 117, 106); 
     padding: 14px;
 
 }
 
 th {
-   background-color: rgb(187, 183, 151);
+   background-color: rgb(231, 243, 215);
    border: 10px; 
 }
