@@ -1,0 +1,12 @@
+body {
+    background-color:rgb(224, 242, 248);
+    margin: 0;
+    padding: 0;
+  }
+
+  .navbar {
+    width: 100%;
+    background-color: rgb(147, 161, 168);
+    padding: 0;     
+    }
+    
