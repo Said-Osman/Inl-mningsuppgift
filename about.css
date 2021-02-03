@@ -6,7 +6,7 @@ body {
 
 .navigationWrapper {
 width: 10%;
-background-color: rgb(153, 153, 130);
+background-color: rgb(231, 243, 215);
 padding: 0%;
  
 }
@@ -34,4 +34,14 @@ a:hover {
 img, svg {
     vertical-align: middle;
     width: 30%;
+}
+
+.card {
+    width: 73%;
+    height: 97%;
+}
+
+.card-body {
+    background-color: rgb(231, 243, 215);
+    
 }
