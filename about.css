@@ -67,3 +67,10 @@ img, svg {
 .imgblogg2 {
     width: 110%;
 }
+
+.wrapper {
+    display:grid;
+    grid-template-columns: repeat(2, 2fr);
+    grid-gap: 4em;
+
+}
